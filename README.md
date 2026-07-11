@@ -70,7 +70,7 @@ appointment-booking-system/
 |---------|----------------|
 | Dev-Yavanco | Project Leader & Backend Development |
 | yungmob | Frontend Development |
-| Member 3 | Database, Documentation & Reports |
+| DYankee34 | Database, Documentation & Reports |
 
 ---
 
